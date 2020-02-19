@@ -1,0 +1,8 @@
+{
+  "name": "rails-yelp-mvp",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "webpack-dev-server": "^3.10.3"
+  }
+}
